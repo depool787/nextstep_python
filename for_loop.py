@@ -2,7 +2,6 @@
 #     print(i)
     
     
-name="dipulthapa"
-for char in name:
-    print(char)
-    
+# name="dipulthapa"
+# for char in name:
+#     print(char)
